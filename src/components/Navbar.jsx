@@ -15,6 +15,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
           {/* mobile menu */}
           <div
             className="w-7 h-5 relative cursor-pointer z-40 md:hidden"
+            // uses the previous state value to switch between true and false.
             onClick={() => setMenuOpen((prev) => !prev)}
           >
             &#9776; {/* hamburger icon */}
