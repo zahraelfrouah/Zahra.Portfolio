@@ -5,7 +5,7 @@ export const Home = () => {
       className="min-h-screen flex items-center justify-center relative "
     >
       <div className="text-center z-10 px-4 py-24">
-        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to bg-purple-500 bg-clip-text text-transparent  leading-tight">
+        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to to-cyan-400 bg-clip-text text-transparent  leading-tight">
           Hi, I'm zahra a web developer
           <br />
           who loves to create beautiful and functional websites.
