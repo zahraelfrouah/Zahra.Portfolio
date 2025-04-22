@@ -25,9 +25,8 @@ export const About = () => {
             My journey in web development started with a curiosity about how
             websites work. Since then, I've honed my skills in HTML, CSS, and
             JavaScript, and I'm constantly exploring new frameworks and tools to
-            enhance my projects.
-          </p>
-          <p className="text-gray-300 mb-6">
+            enhance my projects.<br />
+          
             When I'm not coding, you can find me exploring new technologies,
             reading tech blogs, or working on personal projects that challenge
             me to grow as a developer.

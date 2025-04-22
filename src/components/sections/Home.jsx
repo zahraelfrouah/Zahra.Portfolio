@@ -12,7 +12,7 @@ export const Home = () => {
         </h1>
         <p className="text-gray-400 text-lg mb-8 max-w-2xl mx-auto ">
           I'm passionate about coding and always eager to learn new
-          technologies. I enjoy working on projects that challenge me and allow
+          technologies.<br/> I enjoy working on projects that challenge me and allow
           me to grow as a developer.
         </p>
         <div className="flex justify-center space-x-4">
